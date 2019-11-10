@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(253, 250, 250);
+}
+
+#email {
+    color: rgb(7, 107, 65);
+}
+
+#github {
+    color: crimson;
+}
+
+#portfolio {
+    color: rgb(255, 145, 0);
+}
